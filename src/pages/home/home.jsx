@@ -1,10 +1,14 @@
 import React from 'react'
+import Layout from '../../components/layout'
+import Hero_slider from '../../components/home/hero_slider'
 
 const Home = () => {
   return (
-    <div>
-      <h2 className='font-bold font-Vazirmatn-Black'>در سایت فروشگاه موتر خوش آمدید</h2>
-    </div>
+    <Layout>
+      <section className='w-full'>
+        <Hero_slider />
+      </section>
+    </Layout>
   )
 }
 

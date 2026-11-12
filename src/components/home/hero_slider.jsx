@@ -12,7 +12,7 @@ const Hero_slider = () => {
             <h1 className='font-Vazirmatn-Black text-white text-5xl md:text-7xl md:leading-25'>
                 <span className='lg:-translate-x-30 flex'>موتـر رویـایـی خـود را  </span>
                 
-                <span className='text-red-800 '>با بهترین قیمت پیدا کنید!</span>
+                <span className='text-red-500 '>با بهترین قیمت پیدا کنید!</span>
             </h1>
             <p className='text-white font-Vazirmatn-Medium lg:text-3xl mt-5'>تنوع بی نظیر موترها،قمیت های مناسب و خرید مطمئن</p>
         <div className='w-full lg:w-180 mt-9'>

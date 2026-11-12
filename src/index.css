@@ -117,3 +117,9 @@ body,html{
   --font-Vazirmatn-Medium:Vazirmatn-Medium;
   --font-Vazirmatn-Regular:Vazirmatn-Regular;
 }
+
+
+
+.cars-shadow{
+    box-shadow:0 0 5px  rgba(13, 21, 35, 0.453);
+}

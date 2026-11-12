@@ -24,7 +24,7 @@ const Search_hero = () => {
             <option value="افغانی">قیمت(افغانی)</option>
             <option value="دالر">قیمت(دالر)</option>
         </select>
-        <button className='bg-red-600 text-white rounded-md py-3'>جستجو</button>
+        <button className='bg-red-500 text-white rounded-md py-3'>جستجو</button>
     </form>
   )
 }

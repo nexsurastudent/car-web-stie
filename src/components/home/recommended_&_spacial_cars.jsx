@@ -45,7 +45,7 @@ const RecommendedSpacial_cars = () => {
         },
     ]
     return (
-        <section className='w-full my-10 p-5'>
+        <section className='w-full mt-10 p-5'>
             <div className="mb-5 overflow-hidden flex items-center justify-center gap-4">
                 {/* خط سمت راست با گرادیانت محو شونده و دایره در انتها */}
                 <div className="hidden sm:flex items-center">

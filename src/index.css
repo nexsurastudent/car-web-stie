@@ -123,6 +123,9 @@ body,html{
 .cars-shadow{
     box-shadow:0 0 5px  rgba(13, 21, 35, 0.453);
 }
+.benfets_card-shadow{
+    box-shadow:0 0 5px  rgba(13, 21, 35, 0.119);
+}
 
 
 .btn-dealse{

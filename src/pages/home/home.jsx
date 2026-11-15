@@ -3,6 +3,7 @@ import Layout from '../../components/layout'
 import Hero_slider from '../../components/home/hero_slider'
 import RecommendedSpacial_cars from '../../components/home/recommended_&_spacial_cars'
 import Type_cars_brands from '../../components/home/type_cars_&_brands'
+import Deals from '../../components/home/deal'
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
         <Hero_slider />
         <RecommendedSpacial_cars />
         <Type_cars_brands />
+        <Deals />
       </section>
     </Layout>
   )

@@ -5,6 +5,7 @@ import RecommendedSpacial_cars from '../../components/home/recommended_&_spacial
 import Type_cars_brands from '../../components/home/type_cars_&_brands'
 import Deals from '../../components/home/deal'
 import About_benfets from '../../components/home/about_benfets'
+import Testimonials from '../../components/home/testimonials'
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
         <Type_cars_brands />
         <Deals />
         <About_benfets />
+        <Testimonials />
       </section>
     </Layout>
   )

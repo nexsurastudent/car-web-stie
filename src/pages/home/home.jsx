@@ -6,6 +6,7 @@ import Type_cars_brands from '../../components/home/type_cars_&_brands'
 import Deals from '../../components/home/deal'
 import About_benfets from '../../components/home/about_benfets'
 import Testimonials from '../../components/home/testimonials'
+import Contact_us from '../../components/home/contact_us'
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
         <Deals />
         <About_benfets />
         <Testimonials />
+        <Contact_us />
       </section>
     </Layout>
   )

@@ -43,11 +43,12 @@ body,html{
 
     /* Brand */
   --color-primary: #17243A;
+  --color-primary-Secondary: #26364A;
   --color-primary-hover: #26364A;
   --color-secondary: #526174;
   --color-accent: #C6A15B;
   --color-accent-hover: #B38D49;
-
+ 
 
 
   /* Background */
@@ -116,4 +117,23 @@ body,html{
   --font-Vazirmatn-Light:Vazirmatn-Light;
   --font-Vazirmatn-Medium:Vazirmatn-Medium;
   --font-Vazirmatn-Regular:Vazirmatn-Regular;
+}
+
+
+
+.cars-shadow{
+    box-shadow:0 0 5px  rgba(13, 21, 35, 0.453);
+}
+.benfets_card-shadow{
+    box-shadow:0 0 5px  rgba(13, 21, 35, 0.119);
+}
+.home_contact_banner{
+    clip-path: polygon(0 0,100% 0,100% 100%,12% 100%);
+}
+
+.btn-dealse{
+    clip-path: polygon(0 10%,10% 0,90% 0,100% 10%,100% 90%,90% 100%,10% 100%,0 90%);
+}
+.topheader_grarient{
+    background-image:linear-gradient(to right, #26364A 30%, #26364af0  40% 55%,#26364A 60%)
 }

@@ -21,8 +21,9 @@ const LargeMenu = () => {
             <li><Link to={'/'}>صفحه اصلی</Link></li>
             <li><Link to={'/'}>موترها</Link></li>
             <li><Link to={'/'}>برندها</Link></li>
-            <li><Link to={'/'}>پیشنهادات ویژه</Link></li>
+            <li><Link to={'/appointment'}>پیشنهادات ویژه</Link></li>
             <li><Link to={'/'}>درباره ما</Link></li>
+            <li><Link to={'/faq'}>سوالات متداول</Link></li>
             <li><Link to={'/'}>تماس باما</Link></li>
         </ul>
 
